@@ -1,7 +1,6 @@
 {
   "aggregates": {
     "fuelTypes": [
-      
       {
         "available": true,
         "numVehicles": 5,
@@ -38,6 +37,5 @@
         "value": "Diesel"
       }
     ]
-    
   }
 }
