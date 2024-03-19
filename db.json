@@ -1,12 +1,7 @@
 {
   "aggregates": {
     "fuelTypes": [
-      {
-        "_comentario1": "no mostrar",
-        "available": true,
-        "numVehicles": 950,
-        "value": "N/A"
-      }, 
+      
       {
         "available": true,
         "numVehicles": 5,
