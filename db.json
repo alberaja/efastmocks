@@ -36,6 +36,59 @@
         "numVehicles": 16,
         "value": "Diesel"
       }
+    ],
+    "transmissionTypes": [
+      {
+        "available": true,
+        "numVehicles": 10,
+        "value": "Automatico"
+      },
+      {
+        "available": false,
+        "numVehicles": 5,
+        "value": "Manual"
+      }
+    ],
+    "carTypes": [
+      {
+        "available": true,
+        "numVehicles": 4,
+        "value": "coche"
+      },
+      {
+        "available": true,
+        "numVehicles": 10,
+        "value": "moto"
+      }
+    ],
+    "maximodeKmTypes": [
+      {
+        "available": true,
+        "numVehicles": 2,
+        "value": "LIMITED"
+      },
+      {
+        "available": true,
+        "numVehicles": 10,
+        "value": "UNLIMITED"
+      }
+    ],
+    "maximoNumplazas": [
+      {
+        "available": true,
+        "numVehicles": 2,
+        "value": "4+"
+      },
+      {
+        "available": true,
+        "numVehicles": 5,
+        "value": "5+"
+      },
+      {
+        "available": true,
+        "numVehicles": 10,
+        "value": "6+"
+      }
     ]
   }
 }
