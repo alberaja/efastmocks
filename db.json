@@ -1,0 +1,47 @@
+{
+  "aggregates": {
+    "fuelTypes": [
+      {
+        "available": true,
+        "numVehicles": 950,
+        "value": "N/A"
+      },
+      {
+        "available": true,
+        "numVehicles": 5,
+        "value": "Hibrido"
+      },
+      {
+        "available": true,
+        "numVehicles": 8,
+        "value": "Hibrido enchufable"
+      },
+      {
+        "available": true,
+        "numVehicles": 8,
+        "value": "Hibrido no enchufable"
+      },
+      {
+        "available": true,
+        "numVehicles": 5,
+        "value": "Hibrido ligero"
+      },
+      {
+        "available": true,
+        "numVehicles": 5,
+        "value": "Electrico"
+      },
+      {
+        "available": true,
+        "numVehicles": 7,
+        "value": "Petrol"
+      },
+      {
+        "available": true,
+        "numVehicles": 16,
+        "value": "Diesel"
+      }
+    ]
+    
+  }
+}
